@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.25, 8.5" name="dbChoThueDiaContext">
+  <DataContextMoniker Name="/dbChoThueDiaContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f1d6d29e-be9b-488b-937f-c0523ec8545c" absoluteBounds="6.25, 4, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbChoThueDiaContextDataContext/tbDiaCD" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2a7be1df-536a-419d-8ce1-6f56252e1c38" absoluteBounds="6.265, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e4b379ed-ae14-4491-91ce-1c55492d2282" absoluteBounds="3.5, 3.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbChoThueDiaContextDataContext/tbTieuDe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c2e3949d-ba8b-473a-9977-08c832273007" absoluteBounds="3.515, 4.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="28a25908-e545-4323-8fae-10ca0ec16035" absoluteBounds="3.5, 1.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/dbChoThueDiaContextDataContext/tbKhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="afcf3e8e-f7a8-47ea-8dc6-c8d86aa7aed7" absoluteBounds="3.515, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="415f4450-b897-4a30-a6ac-4534bee12902" absoluteBounds="9, 3.375, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/dbChoThueDiaContextDataContext/tbLapPhieuThue" />
+      <nestedChildShapes>
+        <elementListCompartment Id="29a5a9aa-fc56-4c45-8d41-9f5b9c4ae91a" absoluteBounds="9.015, 3.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a3de6615-5703-41b5-86f5-43d148809ed3" absoluteBounds="0.75, 3.75, 2, 1.7708968098958335">
+      <DataClassMoniker Name="/dbChoThueDiaContextDataContext/tbLoaiDia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41059ec4-b00e-42f6-98fb-d8aca07bdb54" absoluteBounds="0.765, 4.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fab3ed55-1a2c-4f7d-b300-73c6c4f90c4f" absoluteBounds="6.25, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/dbChoThueDiaContextDataContext/tbThongTinDatTruoc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b241348d-2356-4a0f-a86b-f29bbf992ec6" absoluteBounds="6.265, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 4.69314697265625); (6.25 : 4.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbChoThueDiaContextDataContext/tbTieuDe/tbTieuDe_tbDiaCD" />
+      <nodes>
+        <classShapeMoniker Id="e4b379ed-ae14-4491-91ce-1c55492d2282" />
+        <classShapeMoniker Id="f1d6d29e-be9b-488b-937f-c0523ec8545c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 4.69314697265625); (9 : 4.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbChoThueDiaContextDataContext/tbDiaCD/tbDiaCD_tbLapPhieuThue" />
+      <nodes>
+        <classShapeMoniker Id="f1d6d29e-be9b-488b-937f-c0523ec8545c" />
+        <classShapeMoniker Id="415f4450-b897-4a30-a6ac-4534bee12902" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.73964680989583); (5.79166666666667 : 2.73964680989583 : JumpStart); (5.95833333333333 : 2.73964680989583 : JumpEnd); (10 : 2.73964680989583); (10 : 3.375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbChoThueDiaContextDataContext/tbKhachHang/tbKhachHang_tbLapPhieuThue" />
+      <nodes>
+        <classShapeMoniker Id="28a25908-e545-4323-8fae-10ca0ec16035" />
+        <classShapeMoniker Id="415f4450-b897-4a30-a6ac-4534bee12902" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.66429768880208); (3.5 : 4.66429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbChoThueDiaContextDataContext/tbLoaiDia/tbLoaiDia_tbTieuDe" />
+      <nodes>
+        <classShapeMoniker Id="a3de6615-5703-41b5-86f5-43d148809ed3" />
+        <classShapeMoniker Id="e4b379ed-ae14-4491-91ce-1c55492d2282" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.82294840494792); (5.79166666666667 : 1.82294840494792 : JumpStart); (5.95833333333333 : 1.82294840494792 : JumpEnd); (6.25 : 1.82294840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbChoThueDiaContextDataContext/tbKhachHang/tbKhachHang_tbThongTinDatTruoc" />
+      <nodes>
+        <classShapeMoniker Id="28a25908-e545-4323-8fae-10ca0ec16035" />
+        <classShapeMoniker Id="fab3ed55-1a2c-4f7d-b300-73c6c4f90c4f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.875); (5.875 : 3.5); (5.875 : 1.25522220247396); (6.25 : 1.25522220247396)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbChoThueDiaContextDataContext/tbTieuDe/tbTieuDe_tbThongTinDatTruoc" />
+      <nodes>
+        <classShapeMoniker Id="e4b379ed-ae14-4491-91ce-1c55492d2282" />
+        <classShapeMoniker Id="fab3ed55-1a2c-4f7d-b300-73c6c4f90c4f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

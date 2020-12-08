@@ -1,0 +1,248 @@
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\bin\Debug\GUI.exe.config
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\bin\Debug\GUI.exe
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\bin\Debug\GUI.pdb
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.exe
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.pdb
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmFlashScreen.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmMenuQuanLy.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmLapPhieuThue.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmBaoCao.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmQLDatDia.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmQLDia.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmQLKhachHang.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmQLTieuDe.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmThongKe.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmTraDia.resources
+C:\Users\ADMIN\Desktop\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmMenuNhanVien.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\bin\Debug\GUI.exe.config
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\bin\Debug\GUI.exe
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\bin\Debug\GUI.pdb
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmBaoCao.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmFlashScreen.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmLapPhieuThue.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmMenuNhanVien.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmMenuQuanLy.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmQLDatDia.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmQLDia.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmQLKhachHang.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmQLTieuDe.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmThongKe.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.frmTraDia.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.exe
+C:\Users\Nghia\Downloads\XDPM_GUI\XDPM\DemoXDPM\GUI\obj\Debug\GUI.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe.config
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmBaoCao.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmFlashScreen.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmLapPhieuThue.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuNhanVien.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuQuanLy.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDatDia.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDia.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLKhachHang.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLTieuDe.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmThongKe.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmTraDia.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.exe
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmChiTietPhiPhat.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll.config
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe.config
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.exe
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.pdb
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.pdb
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.dll
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.dll
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.pdb
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.pdb
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.pdb
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmBaoCao.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmChiTietPhiPhat.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmFlashScreen.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmLapPhieuThue.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuNhanVien.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuQuanLy.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDatDia.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDia.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLKhachHang.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLTieuDe.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmThongKe.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmTraDia.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe.config
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.pdb
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.dll
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.dll
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.pdb
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.pdb
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.pdb
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll.config
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmBaoCao.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmChiTietPhiPhat.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmFlashScreen.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmLapPhieuThue.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuNhanVien.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuQuanLy.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDatDia.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDia.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLKhachHang.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLTieuDe.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmThongKe.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmTraDia.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.exe
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe.config
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll.config
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmBaoCao.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmChiTietPhiPhat.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmFlashScreen.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmLapPhieuThue.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuNhanVien.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuQuanLy.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDatDia.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDia.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLKhachHang.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLTieuDe.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmThongKe.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmTraDia.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.exe
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V4\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmBaoCao.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmChiTietPhiPhat.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmFlashScreen.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmLapPhieuThue.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuNhanVien.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuQuanLy.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDatDia.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDia.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLKhachHang.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLTieuDe.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmThongKe.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmTraDia.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmXoaPhiPhat.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.exe
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe.config
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll.config
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe.config
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.exe
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.pdb
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.pdb
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.dll
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.dll
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.pdb
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.pdb
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.pdb
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmBaoCao.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmChiTietPhiPhat.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmFlashScreen.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmLapPhieuThue.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuNhanVien.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuQuanLy.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDatDia.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDia.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLKhachHang.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLTieuDe.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmThongKe.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmTraDia.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmXoaPhiPhat.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe.config
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.exe
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\GUI.pdb
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.dll
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.dll
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\BUS.pdb
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\Entity.pdb
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.pdb
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\bin\Debug\DATA.dll.config
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmBaoCao.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmChiTietPhiPhat.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmFlashScreen.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmLapPhieuThue.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuNhanVien.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmMenuQuanLy.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDatDia.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLDia.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLKhachHang.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmQLTieuDe.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmThongKe.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmTraDia.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.frmXoaPhiPhat.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.exe
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\GUI\obj\Debug\GUI.pdb

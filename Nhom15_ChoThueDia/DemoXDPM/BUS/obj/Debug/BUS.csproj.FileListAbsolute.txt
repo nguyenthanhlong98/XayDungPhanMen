@@ -1,0 +1,66 @@
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll.config
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.pdb
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.dll
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.pdb
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.dll
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.pdb
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.pdb
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.dll
+D:\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.pdb
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.dll
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.pdb
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.dll
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.pdb
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll.config
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.pdb
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.dll
+C:\Users\Nghia\Downloads\Nhom15_ChoThueDia_V3\Nhom15_ChoThueDia_V2\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll.config
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.pdb
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.dll
+E:\HK1_2020_2021\XayDungPhamMem\Nhom15_ChoThueDia_V5\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.pdb
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.dll
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.pdb
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.dll
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.pdb
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.pdb
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.dll
+D:\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.pdb
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.dll
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\BUS.pdb
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.dll
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.pdb
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\DATA.dll.config
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\bin\Debug\Entity.pdb
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.dll
+D:\tri tue nhan tao\Nhom15_ChoThueDia_V5.1-main\Nhom15_ChoThueDia\DemoXDPM\BUS\obj\Debug\BUS.pdb
