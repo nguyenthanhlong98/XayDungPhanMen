@@ -119,6 +119,7 @@
             this.txtPhiPhat.Name = "txtPhiPhat";
             this.txtPhiPhat.Size = new System.Drawing.Size(270, 20);
             this.txtPhiPhat.TabIndex = 1;
+            this.txtPhiPhat.Text = "0";
             // 
             // btnThem
             // 

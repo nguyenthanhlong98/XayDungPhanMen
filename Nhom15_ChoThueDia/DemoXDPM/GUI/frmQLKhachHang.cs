@@ -25,7 +25,7 @@ namespace GUI
             busQuanLyKhachHang = new BusQuanLyKhachHang();
             griDanhSachKhachHang.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dsKH = busQuanLyKhachHang.layDSKhachHang();
-            txtMaKH.Text = "DD" + kiemTraMaTuDong(getMaDD_AuTo(busQuanLyKhachHang.layDSKhachHang()));
+            txtMaKH.Text = "KH" + kiemTraMaTuDong(getMaDD_AuTo(busQuanLyKhachHang.layDSKhachHang()));
             griDanhSachKhachHang.DataSource = dsKH;
         }
 
@@ -71,13 +71,13 @@ namespace GUI
             eKhach.TenKH = txtTenKH.Text;
             eKhach.DiaChi = txtDiaChi.Text;
             eKhach.SoDienThoai = txtSDT.Text;
-           // eKhach.PhiPhat = txtPhiPhat.Text.Length;
+            //eKhach.PhiPhat = txtPhiPhat.Text.ToString();
 
             if (busQuanLyKhachHang.themKhachHang(eKhach))
             {
                 MessageBox.Show("Thêm thành công", "");
                 dsKH = busQuanLyKhachHang.layDSKhachHang();
-                txtMaKH.Text = "DD" + kiemTraMaTuDong(getMaDD_AuTo(busQuanLyKhachHang.layDSKhachHang()));
+                txtMaKH.Text = "KH" + kiemTraMaTuDong(getMaDD_AuTo(busQuanLyKhachHang.layDSKhachHang()));
                 griDanhSachKhachHang.DataSource = dsKH;
                // formatDatagridsDia();
             }
@@ -86,7 +86,20 @@ namespace GUI
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-
+            if (griDanhSachKhachHang.SelectedRows.Count > 0)
+            {
+                String maKH = griDanhSachKhachHang.SelectedRows[0].Cells[0].Value.ToString();
+                DialogResult d;
+                d = MessageBox.Show("Bạn có muốn xóa không?", "Thông báo!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (d == DialogResult.Yes)
+                {
+                    busQuanLyKhachHang.xoaKhachHang(maKH);
+                    MessageBox.Show("Xoa thanh cong");
+                    dsKH = busQuanLyKhachHang.layDSKhachHang();
+                    txtMaKH.Text = "KH" + kiemTraMaTuDong(getMaDD_AuTo(busQuanLyKhachHang.layDSKhachHang()));
+                    griDanhSachKhachHang.DataSource = dsKH;
+                }
+            }
         }
 
         private void btnSua_Click(object sender, EventArgs e)

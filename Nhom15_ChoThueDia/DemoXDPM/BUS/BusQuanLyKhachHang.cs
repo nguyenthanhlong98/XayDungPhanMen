@@ -35,7 +35,9 @@ namespace BUS
             tbKhach.TenKH = eKhach.TenKH;
             tbKhach.DiaChi = eKhach.DiaChi;
             tbKhach.SoDienThoai = eKhach.SoDienThoai;
-            //tbKhach.PhiPhat = eKhach.PhiPhat;
+            tbKhach.PhiPhat = eKhach.PhiPhat;
+            db.tbKhachHangs.InsertOnSubmit(tbKhach);
+            db.SubmitChanges();
             return true;
         }
 
